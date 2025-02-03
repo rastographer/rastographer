@@ -1,5 +1,4 @@
 # 💫 About Me:
-# About Me 💫
 
 Hello, I'm **Tony Lang'at** 👋, a full-stack developer and technology specialist based in Nairobi, Kenya 🇰🇪. I design and implement scalable, secure, and user-focused software solutions by blending modern development practices with robust system architecture.
 

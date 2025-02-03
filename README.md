@@ -1,5 +1,40 @@
 # 💫 About Me:
-👋 Hey there! I'm Tony Lang'at, a full-stack developer and tech enthusiast from the vibrant city of Nairobi, Kenya. 🇰🇪 With a passion for crafting clean, scalable, and user-centric software solutions, I focus on leveraging the latest tools and frameworks to bring innovative ideas to life.<br><br>I specialize in the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire) and have hands-on experience with modern frameworks like Flutter and React.js. My goal is to solve real-world problems through intuitive design and efficient backend systems, ensuring seamless experiences for users everywhere. 🌐<br><br>What I Do 💻<br>Backend Wizard 🧙‍♂️: Expert in Laravel and PHP, I build powerful APIs and backend architectures that are reliable, secure, and easy to maintain.<br>Frontend Aficionado 🎨: I bring designs to life with Tailwind CSS, JavaScript, and frameworks like React.js and Flutter for cross-platform apps.<br>Problem Solver 🔧: Whether it's exporting data, generating QR codes, or building CRUD apps, I thrive on solving challenges with code.<br>Project Launch Specialist 🚀: I create boilerplates and workflows to help teams and individuals launch their projects faster and more efficiently.<br><br>Current Focus 🎯<br>Right now, I'm exploring:<br><br>Advanced Laravel techniques to make applications even more scalable and performant.<br>Livewire and Tailwind CSS for building dynamic user interfaces effortlessly.<br>Enhancing my expertise in Flutter for building beautiful mobile apps.<br>Helping startups and small businesses with project management and software solutions.
+# About Me 💫
+
+Hello, I'm **Tony Lang'at** 👋, a full-stack developer and technology specialist based in Nairobi, Kenya 🇰🇪. I design and implement scalable, secure, and user-focused software solutions by blending modern development practices with robust system architecture.
+
+## Technical Expertise 💻
+
+### Backend & API Development ⚙️
+- **PHP** and **Laravel** expert, with deep experience in **Livewire** and **Symfony**.
+- Proficient in building RESTful APIs, handling JWT-based authentication, and developing secure, maintainable backend systems.
+- Skilled in **Go** for performance-critical applications.
+
+### Frontend Development 🎨
+- Crafting responsive, intuitive user interfaces using **Tailwind CSS**, **Alpine.js**, and **JavaScript**.
+- Experienced with modern frameworks like **Vue.js**, **React.js**, and **Flutter** for cross-platform mobile and web apps.
+
+### DevOps & Infrastructure 🖥️
+- Mastery of Linux commands, VPS management, and cPanel administration.
+- Strong background in server security, along with expertise in **Apache**, **Nginx**, and database management (MongoDB, Postgres, MariaDB, MySQL, SQLite).
+- Proficient in managing virtual machine instances and cloud services across **AWS**, **Google Cloud**, and **Azure**.
+
+### Additional Tools & Technologies 🔧
+- Experienced with Git workflows using **Git** and **GitHub**, and command-line proficiency with Windows Terminal.
+- Familiar with cloud services such as **AWS**, **Cloudflare**, **Firebase**, **Socket.io**, and **Twilio**.
+- Skilled in API testing with **Postman**.
+- Competent in design and multimedia tools including **Adobe Creative Suite** (Photoshop, Illustrator, Lightroom, After Effects), **Figma**, and **Gimp**.
+- Knowledgeable in **WordPress**, **Unity**, and various development workflows.
+
+## Current Focus 🎯
+
+I'm currently honing my skills in:
+- **Advanced Laravel Techniques:** Enhancing application scalability and performance.
+- **Dynamic UI Development:** Leveraging **Livewire** and **Tailwind CSS** to build modern, reactive interfaces.
+- **Cross-Platform Mobile Development:** Expanding expertise in **Flutter** for high-quality mobile applications.
+
+I'm dedicated to integrating cutting-edge technologies and best practices to solve complex challenges for startups and established businesses alike. 🚀
+
 
 
 ## 🌐 Socials:
